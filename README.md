@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Christian Macedo</h1>
-<h3 align="center">Apaixonado por análise de dados e por transformar informações em insights valiosos</h3>
+<h3 align="center">Apaixonado por análise de dados no mundo digital</h3>
 
 - 🌱 Artualmente estou aprendendo **como utilizar a IA em analise de dados**
 
