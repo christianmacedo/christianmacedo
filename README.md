@@ -11,7 +11,6 @@ Building AI solutions that move from PowerPoint to production with measurable RO
 - 🎓 **MSc in AI** at PUC-PR | MBA in Strategic AI Management
 - 🔧 Stack: **Python, LangChain, n8n, Google ADK, VertexAI, Power BI**
 - 🏆 **2x PGStars Award** — Churn prediction with ML & Isadora, the company's first AI employee for HR
-- 📫 **christian.bmacedo@gmail.com**
 
 <h3 align="left">Connect:</h3>
 <table><tr><td><a href="https://linkedin.com/in/christianbispomacedo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td><td><a href="https://christianmacedoportfolio.lovable.app" target="blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" width="30" height="30" /></a></td></tr></table>
