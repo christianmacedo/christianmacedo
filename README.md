@@ -7,7 +7,7 @@ Building AI solutions that move from PowerPoint to production with measurable RO
 
 ---
 
-- 🤖 Leading the AI division at **PGMais** — 50+ agents and automations in production
+- 🤖 Leading the Corporate Intelligence team at **PGMais** — AI/Automation + Financial Intelligence
 - 🎓 **MSc in AI** at PUC-PR | MBA in Strategic AI Management
 - 🔧 Stack: **Python, LangChain, n8n, Google ADK, VertexAI, Power BI**
 - 🏆 **2x PGStars Award** — Churn prediction with ML & Isadora, the company's first AI employee for HR
