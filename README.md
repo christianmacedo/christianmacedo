@@ -1,19 +1,26 @@
-<h1 align="center">Christian Macedo</h1>
-<h3 align="center">AI & Data Tech Lead | Autonomous Agents, GenAI & ML</h3>
+# Christian Macedo
 
-<p align="center">
-Building AI solutions that move from PowerPoint to production with measurable ROI.
-</p>
+### AI & Data Tech Lead | Senior AI Engineer (GenAI, Autonomous Agents & ML)
+
+Architecting and shipping production AI systems that drive measurable operational efficiency and revenue retention across Banking, Telecom, and B2B SaaS.
+
+- 🚀 **AI & Data Lead at PGMais** — Built the Data & AI unit from scratch; shipped **50+ autonomous AI agents** and predictive ML models to production.
+- 🎓 **MSc Candidate in AI & Software Agents** at PUC-PR | Postgrad in AI & Data Science (FIAP) | MBA in Strategic AI.
+- 🏆 **2x PGStars Award Winner** — Production ML Turnover Prediction & *Isadora* (the company's first autonomous AI HR agent).
+- 🛡️ **End-to-End Ownership** — From PoC to production: Multi-Agent orchestration, Enterprise RAG, LLMOps, and LGPD/GDPR governance.
 
 ---
 
-- 🤖 Leading the Corporate Intelligence team at **PGMais** — AI/Automation + Financial Intelligence
-- 🎓 **MSc in AI** at PUC-PR | MBA in Strategic AI Management
-- 🔧 Stack: **Python, LangChain, n8n, Google ADK, VertexAI, Power BI**
-- 🏆 **2x PGStars Award** — Churn prediction with ML & Isadora, the company's first AI employee for HR
+### ⚙️ Core Production Stack
 
-<h3 align="left">Connect:</h3>
-<table><tr><td><a href="https://linkedin.com/in/christianbispomacedo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td><td><a href="https://christianmacedoportfolio.lovable.app" target="blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" width="30" height="30" /></a></td></tr></table>
+- **Agents & GenAI:** Python, LangGraph, LangChain, Google ADK, Model Context Protocol (MCP), RAG (pgvector / FAISS)
+- **Cloud, LLMOps & MLOps:** Google Cloud Platform (Vertex AI), Docker, LangSmith, MLflow, Automated Evals, Drift Monitoring
+- **LLM Security & Governance:** Guardrails, Prompt Injection Defense, PII Filtering, LGPD/GDPR Compliance
+- **Data Science & Engineering:** Scikit-learn, SQL, ETL/ELT Pipelines, Predictive Modeling (Churn, Revenue & Turnover)
 
-<h3 align="left">Tech Stack:</h3>
-<table><tr><td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td><td><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a></td><td><a href="https://www.langchain.com" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/></a></td><td><a href="https://n8n.io" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/></a></td></tr></table>
+---
+
+### 🌐 Connect & Portfolio
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianmacedoo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://christianmacedoportfolio.lovable.app/)
